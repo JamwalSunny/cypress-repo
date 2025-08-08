@@ -4,6 +4,7 @@
   "description": "Cypress Automation Repo",
   "main": "index.js",
   "scripts": {
+    "test1": "npx cypress run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
